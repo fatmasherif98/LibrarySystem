@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1514095266 source:c:\program files (x86)\codeblocks\share\headproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Admin.h"
+	"Structs.h"
+	"Books.h"
+	"Members.h"
+	"Count.h"
+	"Dates.h"
+	"Search.h"
+	"Save.h"
+
+1514095201 source:c:\program files (x86)\codeblocks\share\headproject\books.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Books.h"
+	"Dates.h"
+
+1514095160 c:\program files (x86)\codeblocks\share\headproject\books.h
+	"Structs.h"
+	"Search.h"
+
+1514094788 c:\program files (x86)\codeblocks\share\headproject\structs.h
+
+1514092297 source:c:\program files (x86)\codeblocks\share\headproject\borrows.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Borrows.h"
+
+1514092353 c:\program files (x86)\codeblocks\share\headproject\borrows.h
+	"Structs.h"
+	"Search.h"
+
+1514092297 source:c:\program files (x86)\codeblocks\share\headproject\members.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Members.h"
+
+1514092353 c:\program files (x86)\codeblocks\share\headproject\members.h
+	"Structs.h"
+	"Search.h"
+
+1514094788 source:c:\program files (x86)\codeblocks\share\headproject\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Search.h"
+
+1514094788 c:\program files (x86)\codeblocks\share\headproject\search.h
+	"Structs.h"
+
+1514092297 source:c:\program files (x86)\codeblocks\share\headproject\count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Count.h"
+
+1514092214 c:\program files (x86)\codeblocks\share\headproject\count.h
+	"Structs.h"
+
+1514092692 source:c:\program files (x86)\codeblocks\share\headproject\dates.c
+	"Structs.h"
+	"Dates.h"
+
+1514092692 c:\program files (x86)\codeblocks\share\headproject\dates.h
+	"Structs.h"
+
+1514095160 source:c:\program files (x86)\codeblocks\share\headproject\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Structs.h"
+	"Admin.h"
+	"Dates.h"
+	"Search.h"
+
+1514095160 c:\program files (x86)\codeblocks\share\headproject\admin.h
+	"Structs.h"
+	"Search.h"
+
+1514095160 source:c:\program files (x86)\codeblocks\share\headproject\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"Save.h"
+
+1514095160 c:\program files (x86)\codeblocks\share\headproject\save.h
+	"Structs.h"
+	"Search.h"
+
